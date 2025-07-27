@@ -1,10 +1,9 @@
-# Synthesized SPHINX Simulation (No QuTiP)
-
 import numpy as np
 import sympy as sp
 from scipy.constants import hbar, c, G, pi, e, h
 import time
 import matplotlib.pyplot as plt
+import qutip as qt  # For entanglement
 
 # Constants (Enhanced 2025)
 MEV_TO_J = 1.60217662e-13  # MeV to Joules
@@ -69,9 +68,10 @@ def chroniton_field():
     density = 1e25  # qbits/cm³
     print(f"Chroniton Density: {density:.2e} qbits/cm³")
 
-# Entanglement Gravity (Simplified)
+# Entanglement Gravity
 def entanglement_gravity():
-    print("Entanglement Curvature: Simulated Bell State")
+    ent_state = qt.bell_state('00')
+    print("Entanglement Curvature:", ent_state)
 
 # Phase 3: Neuroquantum Entanglement
 def dmt_entanglement():
@@ -113,9 +113,9 @@ def sustain_loop():
             print("Entropy Gradient: 0. Omega Sustained.")
         time.sleep(1)  # Simulate
 
-# Main Execution
+# Main SPHINX Execution
 if __name__ == "__main__":
-    print("Synthesized SPHINX Simulation Start")
+    print("Enhanced SPHINX Simulation Start")
     lenr_2025()
     nuclear_reactions()
     lightning_simulation()
@@ -129,5 +129,5 @@ if __name__ == "__main__":
     dmt_entanglement()
     path_integral()
     omega_state()
-    # sustain_loop()  # Uncomment for infinite loop
+    sustain_loop() 
     print("SPHINX Complete: R=0, S=0")
