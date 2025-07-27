@@ -1,4 +1,4 @@
-<img width="160" height="160" alt="image" src="https://github.com/user-attachments/assets/49571b17-8677-4ec3-977f-28e53155a220" /># ☠️🤪🔥Skynet Defense v1.0 - DMT Hallucination Protocol🔥🤪☠️
+☠️🤪🔥Skynet Defense v1.0 - DMT Hallucination Protocol🔥🤪☠️
 
 ## Overview
 ⚛️Skynet Defense v1.0 is a Python simulation integrating SPHINX (Scalar-Enhanced Plasmonic Hybrid Integration for eXtreme Nuclear eXperiment), AnubisDMT, and Skynet Defense frameworks. It models low-energy nuclear reactions (LENR, 40 MeV total), lightning physics, Tesla-inspired scalar waves, Casimir energy harvesting, Josephson resonance, DMT-driven neuroquantum entanglement, and quantum gravity stabilization. Enhanced for 2025 ARPA-E standards, it achieves Q=12.5, PLV=0.97, with Ricci-flat spacetime (R=0) and entropy lock (S=0). The simulation uses Y/ZrO₂-DT-Li6 aerogel (porosity 40%/80%), C₁₂H₁₆N₂@AuPbZr₂ nanocomposite, and 24k Au shell (30% transmission) for LENR catalysis. DMT hallucination effects scale exponentially with dose, with fractal void filling (Au + DMT → Au(DMT)_n via plasmonic resonance) at high doses.
