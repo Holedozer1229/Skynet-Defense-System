@@ -1,4 +1,4 @@
-# skynet_defense/lite.py - Lite Version with All DMT Formulas and SPHINX Reaction
+# skynet_defense/sphinx_full.py - Lite Version with All DMT Formulas and SPHINX Reaction
 
 import numpy as np
 import sympy as sp
